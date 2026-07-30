@@ -8,6 +8,9 @@
 
 • Launched Windows PowerShell with elevated privileges (Run as Administrator) to grant system-level feature modification permissions.
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/e52729cbc0f8e644848befcf07dffbf268254e95/IMG_1854.jpeg)
+
+
 • الخطوات 4 و 5 ::
 • قمت بتنفيذ أمر التثبيت الرئيسي wsl --install حيث بدأ النظام بتحميل المكونات الأساسية لـ Windows Subsystem for Linux (الإصدار 2.7.11).
 
