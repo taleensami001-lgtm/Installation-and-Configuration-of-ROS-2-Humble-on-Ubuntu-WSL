@@ -77,6 +77,8 @@ wsl -d Ubuntu-22.04
 wsl --unregister Ubuntu-22.04
 wsl --install -d Ubuntu-22.04
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/f5ba0703afc5b5725c4fdfd687dc23a2b9df60ba/IMG_1859.jpeg)
+
 WSL Environment / بيئة WSL:
 
 • Successfully switched into Ubuntu 22.04 (wsl -d Ubuntu-22.04).
