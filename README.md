@@ -42,6 +42,8 @@
 • نص الرسالة (Message):
 A distribution with the supplied name already exists. Use --name to chose a different name.
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/cf58db1ac9a900321944f88366243429f0eb97e5/IMG_1856.jpeg)
+
 التحليل الفني للسبب الجذر (Technical Root Cause):
 1. هذا الخطأ ليس دليلاً على فشل التثبيت، بل على نجاح تسجيل التوزيعة في المحاولة الأولى. عند إعادة تنفيذ الأمر wsl --install -d Ubuntu-22.04 مرة أخرى، يرفض WSL تثبيتها لأنه يتعرف عليها كـ "توزيعة موجودة ومسجلة بالفعل".
 2.
