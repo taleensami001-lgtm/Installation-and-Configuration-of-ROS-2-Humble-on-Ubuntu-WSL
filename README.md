@@ -48,7 +48,10 @@ A distribution with the supplied name already exists. Use --name to chose a diff
 1. هذا الخطأ ليس دليلاً على فشل التثبيت، بل على نجاح تسجيل التوزيعة في المحاولة الأولى. عند إعادة تنفيذ الأمر wsl --install -d Ubuntu-22.04 مرة أخرى، يرفض WSL تثبيتها لأنه يتعرف عليها كـ "توزيعة موجودة ومسجلة بالفعل".
 2.
  This error indicates that the distribution package was already registered successfully during the preceding step. Re-running the installation command fails because WSL prevents overwriting an existing distribution name.
-3.	ملاحظة إضافية: تم تمكين ميزة VirtualMachinePlatform حديثاً، وبعض أجهزة Windows تتطلب إعادة تشغيل (Restart) حتى تكتمل ميزات الافتراضية (Virtualization).
+
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/6c58a39f0c9fd7ca4fb47ccc360560c9c4e0cf8b/IMG_1858.jpeg) 
+
+4.	ملاحظة إضافية: تم تمكين ميزة VirtualMachinePlatform حديثاً، وبعض أجهزة Windows تتطلب إعادة تشغيل (Restart) حتى تكتمل ميزات الافتراضية (Virtualization).
  
 3. الحلول والخطوات القادمة الموصى بها (Solutions & Next Steps)
 
