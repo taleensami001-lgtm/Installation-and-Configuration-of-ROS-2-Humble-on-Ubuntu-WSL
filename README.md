@@ -49,8 +49,6 @@ A distribution with the supplied name already exists. Use --name to chose a diff
 2.
  This error indicates that the distribution package was already registered successfully during the preceding step. Re-running the installation command fails because WSL prevents overwriting an existing distribution name.
 
-![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/6c58a39f0c9fd7ca4fb47ccc360560c9c4e0cf8b/IMG_1858.jpeg) 
-
 4.	ملاحظة إضافية: تم تمكين ميزة VirtualMachinePlatform حديثاً، وبعض أجهزة Windows تتطلب إعادة تشغيل (Restart) حتى تكتمل ميزات الافتراضية (Virtualization).
  
 3. الحلول والخطوات القادمة الموصى بها (Solutions & Next Steps)
@@ -60,6 +58,8 @@ A distribution with the supplied name already exists. Use --name to chose a diff
 
 wsl --list --verbose
 (أو الاختصار: wsl -l -v)
+
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/6c58a39f0c9fd7ca4fb47ccc360560c9c4e0cf8b/IMG_1858.jpeg) 
 
 تشغيل ubunto مباشرة:
 بما أن التوزيعة مضافة بالفعل، يمكنك دخول بيئة لنيكس مباشرة باستخدام:
