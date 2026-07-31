@@ -92,7 +92,7 @@ WSL Environment / بيئة WSL:
 • Completed sudo apt update && sudo apt upgrade -y.
 
 ![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/34363589a9f62ecc2227f3676d79db49c58a6555/IMG_1861.jpeg)
-![img alt]()
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/fe4c560c84d71ea0e8fc5b83d700a3245e24bb97/IMG_1862.jpeg)
 • اكتمل تنفيذ أمر التحديث.
 
 • Current Command / الأمر الحالي:
