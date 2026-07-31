@@ -85,6 +85,8 @@ WSL Environment / بيئة WSL:
 
 • تم التبديل بنجاح إلى نظام Ubuntu 22.04.
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/fc810d1191de4ec6573cb61545c9ab8f8504a44d/IMG_1860.jpeg)
+
 • System Upgrade / ترقية النظام:
 
 • Completed sudo apt update && sudo apt upgrade -y.
