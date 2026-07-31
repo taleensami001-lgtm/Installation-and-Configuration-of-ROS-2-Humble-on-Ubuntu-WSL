@@ -100,6 +100,9 @@ WSL Environment / بيئة WSL:
 
 • جاهز للتنفيذ أو في طور إنهاء الأمر.
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/464c655ce032c24b3bfe499c28e7398e9db5a566/IMG_1863.jpeg)
+![img alt]()
+
 Remaining Setup Steps / خطوات الإعداد المتبقية
 
 Once the current command finishes running, press Enter (if you haven't yet) and copy/paste these remaining commands sequentially from your guide:
