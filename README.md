@@ -119,6 +119,8 @@ Step 2: Add the ROS Repository / الخطوة الثانية: إضافة مست�
 
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(. /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/f7762d104669ee2fb924169fa6776931e0770c8c/IMG_1866.jpeg)
+
 ## Step 3: Update Package List & Install ROS 2 / الخطوة الثالثة: تحديث قائمة الحزم وتثبيت ROS 2
 
 sudo apt update
