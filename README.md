@@ -124,6 +124,10 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-a
 ## Step 3: Update Package List & Install ROS 2 / الخطوة الثالثة: تحديث قائمة الحزم وتثبيت ROS 2
 
 sudo apt update
+
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/70eafb936bd045f97579f5d11f7b88f55dc5ea0d/IMG_1868.jpeg)
+![img alt]()
+
 sudo apt install ros-humble-desktop -y
 
 ## Step 4: Automatically Source ROS 2 Environment / الخطوة الرابعة: تهيئة بيئة ROS 2 تلقائياً
