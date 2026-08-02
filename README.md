@@ -126,7 +126,7 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-a
 sudo apt update
 
 ![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/70eafb936bd045f97579f5d11f7b88f55dc5ea0d/IMG_1868.jpeg)
-![img alt]()
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/6171974dfc12c5e3cf5da3eea26bbf524e26f601/IMG_1869.jpeg)
 
 sudo apt install ros-humble-desktop -y
 
