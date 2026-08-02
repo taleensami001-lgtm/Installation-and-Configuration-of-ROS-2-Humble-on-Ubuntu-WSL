@@ -169,6 +169,7 @@ echo $ROS_DISTRO
 
 Expected Output: humble
 المخرجات المتوقعة: humble
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/a3bec105d452e2614faf91142582618542bcb54c/IMG_1874.jpeg)
 
 Perfect! $ROS_DISTRO = humble
 Your ROS 2 Humble environment is officially configured and loaded properly in your terminal.
