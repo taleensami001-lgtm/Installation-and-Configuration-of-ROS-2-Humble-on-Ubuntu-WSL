@@ -130,6 +130,8 @@ sudo apt update
 
 sudo apt install ros-humble-desktop -y
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/6c86a2a820696f87f8baccd5b85a0949c95076d4/IMG_1871.jpeg)
+![img alt]()
 ## Step 4: Automatically Source ROS 2 Environment / الخطوة الرابعة: تهيئة بيئة ROS 2 تلقائياً
 
 To ensure ROS 2 commands work every time you open a terminal:
