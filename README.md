@@ -141,6 +141,8 @@ To ensure ROS 2 commands work every time you open a terminal:
 echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 
+![img alt](https://github.com/taleensami001-lgtm/Installation-and-Configuration-of-ROS-2-Humble-on-Ubuntu-WSL/blob/1abbff264ff8b88ebcae6079f4a8feb8eb6c875a/IMG_1873.jpeg) 
+
 Great news—ROS 2 Humble is fully installed and working!
 
 أخبار رائعة—تم تثبيت ROS 2 Humble بنجاح وهو يعمل بالكامل!
